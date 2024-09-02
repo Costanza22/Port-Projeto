@@ -2,6 +2,17 @@
 Meu nome é Costanza Pasquotto Assef, tenho 21 anos e sou estou cursando Engenharia de Software
 # Port-Projeto
 Todos os meus projetos mais relevantes
+# Repositorios
+1. https://github.com/Costanza22/AfricaWild
+2. https://github.com/Costanza22/Animal-Center
+3. https://github.com/Costanza22/Patrim-nio-Hist-rico-de-Joinville
+4. https://github.com/Costanza22/ProjectBanana
+5. https://github.com/Costanza22/Air-France
+6. https://github.com/Costanza22/Casa-99
+7. https://github.com/Costanza22/Mapa-Risco-de-Extincao
+8. https://github.com/Costanza22/Monte-Carlo-Clima
+9. https://github.com/Costanza22/Burger-Shot-
+10. https://github.com/Costanza22/Esso
 
 # 1.  AfricaWild
 
