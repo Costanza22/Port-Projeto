@@ -1,3 +1,5 @@
+# Sobre mim
+Meu nome é Costanza Pasquotto Assef, tenho 21 anos e sou estou cursando Engenharia de Software
 # Port-Projeto
 Todos os meus projetos mais relevantes
 
